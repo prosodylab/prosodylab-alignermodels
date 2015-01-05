@@ -1,0 +1,1 @@
+/Users/chael/work_git/prosodylab-alignermodels/NorthAmericanEnglish/aligner_test/test.wav	-77.5108
