@@ -1,1 +1,1 @@
-/Users/chael/work_git/prosodylab-alignermodels/NorthAmericanEnglish/aligner_test/test.wav	-77.5108
+/Users/prosodylab/work_aligner_clone_from_main/prosodylab-alignermodels/NorthAmericanEnglish/testdata/test.wav	-75.8641
