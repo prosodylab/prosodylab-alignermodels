@@ -9,9 +9,9 @@ URL: http://prosodylab.org/tools/aligner/
 authors: Kyle Gorman, Sarah Mihuc, Hannah Cohen
 citation: 'K. Gorman, J. Howell, and M. Wagner. 2011. Prosodylab-Aligner: A tool for
   forced alignment of laboratory speech. Canadian Acoustics, 39(3), 192-193.'
-epochs: 10
+epochs: 5
 language: French
-phoneset: [a, AN, E, e, neuf, deux, i, O, o, u, huit, ^, y, cinq, N, b, d, f, g, G,
-  j, k, l, m, n, p, R, s, S, t, to, un, v, w, x, z, Z]
+phoneset: [a, '@', E, e, neuf, deux, i, O, o, u, huit, ^, y, cinq, N, b, d, f, g,
+  G, j, k, l, m, n, p, R, s, S, t, to, un, v, w, x, z, Z]
 pruning: [250, 100, 4000]
 samplerate: 10000
