@@ -11,12 +11,6 @@ Models to be used in conjunction with Prosodylab-Aligner, v. 1.1 for alignment o
 * SSHRC Canada Research Chair 218503
 * SSHRC Digging Into Data Challenge Grant 869-2009-0004
 
-## Citation
-
-Please you use this tool, we would appreciate if you cited the following paper:
-
-Gorman, Kyle, Jonathan Howell and Michael Wagner. 2011. Prosodylab-Aligner: A Tool for Forced Alignment of Laboratory Speech. Canadian Acoustics. 39.3. 192–193.
-
 ## Using Github
 
 ### Sign Up 
@@ -58,7 +52,7 @@ Include a message to describe the changes made and any information for future re
 
 ### Create a Pull Request
 
-In your Terminal application enter the following to merge and fetch updates from the Prosodylab-AlignerModels:
+To update your folder with other models and the main folder with your models, you can create a pull request. In your Terminal application enter the following to merge and fetch updates from the Prosodylab-AlignerModels:
 
 	$ git pull origin master
 
@@ -69,4 +63,4 @@ If you would prefer to make a pull request on GitHub, go to your fork's page. Th
 
 To create models, see the [Prosodylab-Aligner README](https://github.com/prosodylab/Prosodylab-Aligner). The [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) will create a .zip containing the model. This model is generated from a dictionary, .yaml file, and training data. 
 
-When you merge your model with the master branch (http://github.com/prosodylab/Prosodylab-AlignerModels) it should include the model .zip, dictionary used to generate the model, a couple of .wav and .lab files for testing, and model documentation
+When you merge your model with [Prosodylab-AlignerModels](http://github.com/prosodylab/Prosodylab-AlignerModels), it should include the model .zip, dictionary used to generate the model, a couple of .wav and .lab files for testing, and model documentation
