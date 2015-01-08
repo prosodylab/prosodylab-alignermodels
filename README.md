@@ -15,7 +15,7 @@ Models to be used in conjunction with Prosodylab-Aligner, v. 1.1 for alignment o
 
 ### Sign Up 
 
-Go to [Github's home page](https://github.com) to make an account if you do not have one. 
+Follow the instructions on [Github's home page](https://github.com) to make an account. 
 
 ### Installation
 
@@ -63,4 +63,4 @@ If you would prefer to make a pull request on GitHub, go to your fork's page. Th
 
 To create models, see the [Prosodylab-Aligner README](https://github.com/prosodylab/Prosodylab-Aligner). The [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) will create a .zip containing the model. This model is generated from a dictionary, .yaml file, and training data. 
 
-When you merge your model with [Prosodylab-AlignerModels](http://github.com/prosodylab/Prosodylab-AlignerModels), it should include the model .zip, dictionary used to generate the model, a couple of .wav and .lab files for testing, and model documentation
+When you merge your model with [Prosodylab-AlignerModels](http://github.com/prosodylab/Prosodylab-AlignerModels), it should include the model's .zip, dictionary used to generate the model, a couple of .wav and .lab files for testing, and model documentation
