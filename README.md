@@ -2,14 +2,31 @@
 
 Models to be used in conjunction with Prosodylab-Aligner, v. 1.1 for alignment of laboratory speech production data
 
-* Kyle Gorman <gormanky@ohsu.edu>
-* Michael Wagner <chael@mcgill.ca>
+* Kyle Gorman <gormanky@ohsu.edu>, Hannah Cohen <hannah.cohen2@mail.mcgill.ca>, Michael Wagner <chael@mcgill.ca>
 
 ## Funding
 
-* FQRSC Nouvelle Chercheur NP-132516
 * SSHRC Canada Research Chair 218503
 * SSHRC Digging Into Data Challenge Grant 869-2009-0004
+
+
+## Some Generael Information
+
+If you're using the aligner on a new language, we encourage you to contribute your dictionary and your models (the zip file you can write with the -w flag of the aligner).
+
+If you can make your training data available, that's even better (but whether this is possible will depend on the consent you have from your speakers)
+
+
+If it's a large data amount, it might be better to host it in a different location.
+
+If your models are based on a small data set and you can't post the training data, it might not generalize well, and will only be of limited to others. 
+
+However, the dictionary will still be of tremondoes benefit to others--also, other researchers working on the language might just contact you for more information, and possibly shrae their data with you for training.
+
+
+
+If you want to share your models, we encourage you to do this via git directly, but you can also contact us.
+
 
 ## Using Github
 
