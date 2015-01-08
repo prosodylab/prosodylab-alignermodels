@@ -1,6 +1,6 @@
 # Prosodylab-AlignerModels
 
-Models to be used in conjunction with Prosodylab-Aligner, v. 2.0 for alignment of laboratory speech production data
+Models to be used in conjunction with Prosodylab-Aligner, v. 1.1 for alignment of laboratory speech production data
 
 * Kyle Gorman <gormanky@ohsu.edu>
 * Michael Wagner <chael@mcgill.ca>
