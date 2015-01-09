@@ -22,7 +22,7 @@ If your models are based on a small data set and you can't post the training dat
 
 However, the dictionary will still be of tremendous benefit to others--also, other researchers working on the language might just contact you for more information, and possibly share their data with you for training.
 
-If you want to share your models, we encourage you to do this via GitHub directly, but you can also [contact us](prosodylab@gmail.com).
+If you want to share your models, we encourage you to do this via GitHub directly, but you can also [contact us](<prosodylab@gmail.com>).
 
 
 ## Using Github
