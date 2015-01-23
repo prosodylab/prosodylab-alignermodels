@@ -86,14 +86,14 @@ item []:
 				text = "u"
 			intervals [19]:
 				xmin = 1.27
-				xmax = 1.38
+				xmax = 1.35
 				text = "p"
 			intervals [20]:
-				xmin = 1.38
-				xmax = 1.41
+				xmin = 1.35
+				xmax = 1.38
 				text = "f"
 			intervals [21]:
-				xmin = 1.41
+				xmin = 1.38
 				xmax = 1.46
 				text = "R"
 			intervals [22]:
@@ -152,10 +152,10 @@ item []:
 				text = "UNE"
 			intervals [8]:
 				xmin = 1.1
-				xmax = 1.38
+				xmax = 1.35
 				text = "SOUPE"
 			intervals [9]:
-				xmin = 1.38
+				xmin = 1.35
 				xmax = 1.81
 				text = "FROIDE"
 			intervals [10]:
